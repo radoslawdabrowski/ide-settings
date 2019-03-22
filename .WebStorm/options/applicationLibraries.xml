@@ -1,0 +1,15 @@
+<application>
+  <component name="libraryTable">
+    <library name="ckeditor" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ckeditor.com_4.5.11_full_ckeditor.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ckeditor.com_4.5.11_full_ckeditor.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
