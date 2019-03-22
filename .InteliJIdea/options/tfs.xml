@@ -1,0 +1,17 @@
+<application>
+  <component name="org.jetbrains.tfsIntegration.core.configuration.TFSConfigurationManager">
+    <option name="config">
+      <server uri="http://10.28.160.15:8080/tfs/LogicaPolandCollection/">
+        <configuration>
+          <credentials>
+            <credentials>
+              <domain>WMSI003803</domain>
+              <password>dfeedfcbdfc8dfd8dfc5dfdddfd9dfc1dfc3df98df9adf9adf9adf89</password>
+              <username>dabrowskir</username>
+            </credentials>
+          </credentials>
+        </configuration>
+      </server>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,125 @@
+<application>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/Downloads/eclipse_emedia_formatter.xml" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="9.4.0" last-modified="1515570106000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.8521739" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.77615064" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="DBE.Default.Dialect" value="" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="DocumentationAutoUpdateEnabled" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.10840108" />
+    <property name="JUnit.Splitter.Proportion" value="0.25230104" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="KEYMAP" value="Show Reformat File Dialog&#10;file&#10;copy File" />
+    <property name="LiveContextsPanel[0]" value="0.10758472" />
+    <property name="LiveContextsPanel[1]" value="0.12338063" />
+    <property name="LiveContextsPanel[2]" value="0.115384616" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PLUGIN_FILTER" value="w&#10;lombok&#10;vaadin&#10;Vaadin Support&#10;vaad" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.41148326" />
+    <property name="RunConfigurable.dividerProportion" value="0.27471483" />
+    <property name="SearchEveryWhereHistory" value="leaflet&#10;Des&#10;Mobile&#10;WorkerSer&#10;UserArrayDto" />
+    <property name="SettingsSearchHistory" value="kotlin&#10;compiler&#10;annotation&#10;ś&#10;xml" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="SpringBeansModulesPanel[0]" value="0.20140769" />
+    <property name="SpringBeansModulesPanel[1]" value="0.24135593" />
+    <property name="SpringBeansModulesPanel[2]" value="0.32529044" />
+    <property name="SpringBeansModulesPanel[3]" value="0.21164021" />
+    <property name="SpringMvcModulesPanel[0]" value="0.10840108" />
+    <property name="TrendingPluginsSearchHistory" value="deco" />
+    <property name="android-component-compatibility-check" value="1528709417904" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="consoleView" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="0" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="235" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="com.intellij.remoteServer.impl.runtime.ui.ServersToolWindowContent:com.intellij.remoteServer.impl.runtime.ui.DefaultRemoteServersViewContribution.0" value="192" />
+    <property name="completion.stats.allow.message.shown" value="true" />
+    <property name="completion.stats.experiment.salt" value="dd66e3db" />
+    <property name="completion.stats.experiment.version" value="2" />
+    <property name="completion.stats.status.updated.ts" value="1543308984373" />
+    <property name="create.project.preferred.importer" value="Gradle" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="disable.forced.soft.wraps.notification" value="true" />
+    <property name="eclipse.project.dir" value="C:\storage\repo\intra-esb\modules\finn\MszKipSynapse\MszKipEsb\mszkip-esb-mediator" />
+    <property name="evlsprt.IU-181.3741.2" value="1622837acfe" />
+    <property name="evlsprt.IU-181.3986.9" value="162739fcef0" />
+    <property name="evlsprt.IU-181.4203.6" value="162b9c74326" />
+    <property name="evlsprt.IU-182.3208.16" value="1649865cc1a" />
+    <property name="evlsprt.IU-182.3684.2" value="1651d3ef351" />
+    <property name="evlsprt.IU-183.3975.18" value="1673fc15134" />
+    <property name="evlsprt2.IU-181.3741.2" value="161daf85250" />
+    <property name="evlsprt2.IU-181.3986.9" value="1622b86e2ca" />
+    <property name="evlsprt2.IU-181.4203.6" value="162715dd270" />
+    <property name="evlsprt2.IU-182.3208.16" value="16440d9be11" />
+    <property name="evlsprt2.IU-182.3684.2" value="164c58ac978" />
+    <property name="evlsprt2.IU-183.3975.18" value="16701f5077b" />
+    <property name="evlsprt3.172" value="16" />
+    <property name="evlsprt3.173" value="17" />
+    <property name="evlsprt3.181" value="15" />
+    <property name="evlsprt3.182" value="17" />
+    <property name="evlsprt3.183" value="18" />
+    <property name="evlsprt3.IU-181.3494.3" value="19" />
+    <property name="evlsprt3.IU-181.3741.2" value="15" />
+    <property name="evlsprt3.IU-181.3986.9" value="14" />
+    <property name="evlsprt3.IU-181.4203.6" value="15" />
+    <property name="evlsprt3.IU-182.2574.2" value="11" />
+    <property name="evlsprt3.IU-182.2757.3" value="10" />
+    <property name="evlsprt3.IU-182.2949.4" value="15" />
+    <property name="evlsprt3.IU-182.3208.16" value="17" />
+    <property name="evlsprt3.IU-182.3684.2" value="19" />
+    <property name="evlsprt3.IU-183.3647.12" value="10" />
+    <property name="evlsprt3.IU-183.3795.13" value="16" />
+    <property name="evlsprt3.IU-183.3975.18" value="12" />
+    <property name="evlsprt3.IU-183.4284.36" value="16" />
+    <property name="file.chooser.recent.files" value="C:/storage/repo/spring-boot-playground/spring-boot-zuul/proxy-zuul&#10;C:/storage/repo/spring-boot-poc/poc-proxy&#10;C:/storage/repo/carbon-identity-framework-5.7.0&#10;C:/storage/repo/spring-boot-playground/spring-boot-zuul/api&#10;C:/storage/repo/spring-boot-playground/spring-boot-zuul/client&#10;C:/storage/repo/carbon-identity&#10;C:/storage/repo/carbon-identity-framework&#10;C:/Program Files/Java/jdk-11.0.2&#10;C:/WSO2/Identity Server/5.7.0/jdk/jdk1.8.0_192/jre/lib&#10;C:/Users/rdabrowski/Downloads/demo/demo&#10;C:/storage/utils/gradle-5.2-all&#10;C:/storage/repo/inz/workbook-webservice&#10;C:/storage/repo/intra-esb&#10;C:/Program Files/Apache Software Foundation/Tomcat 8.5/webapps&#10;C:/storage/repo/intra-esb/modules/broker/broker-receivers/between-broker-pass&#10;C:/storage/repo/intra-esb/modules/broker/broker-common&#10;C:/storage/repo/intra-esb/modules/broker/BrokerJAXB&#10;C:/storage/repo/intra-esb/modules/broker/broker-console&#10;C:/storage/repo/intra-esb/modules/broker/broker-console/data-provider&#10;C:/storage/repo/intra-esb/tools&#10;C:/storage/repo/intra-esb/modules/broker/broker-console/web-console&#10;C:/storage/repo/emedia&#10;C:/storage/repo/eFlow&#10;C:/storage/repo/venroll-webservice&#10;C:/storage/utils/emedia/lib&#10;C:/storage/repo/intra-esb/modules/broker/broker-receivers&#10;C:/storage/repo/intra-esb/modules/finn/MszKipEsb&#10;C:/storage/repo/intra-esb/modules/finn/MszKipSynapse/MszKipEsb/mszkip-esb-mediator&#10;C:/storage/repo/mszkip-esb&#10;C:/storage/repo/mszkip-esb/MszKipEsb/mszkip-esb-mediator" />
+    <property name="file.gist.reindex.count" value="81814" />
+    <property name="fileTypeChangedCounter" value="6" />
+    <property name="find.popup.splitter" value="0.48136646" />
+    <property name="gradle.runner.text.console" value="true" />
+    <property name="gradle.runner.text.console_str" value="true" />
+    <property name="grails.last.selected.sdk.home" value="C:\storage\utils\grails-3.3.1" />
+    <property name="installed.kotlin.plugin.version" value="1.3.21-release-IJ2018.3-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="kotlin.lastUpdateCheck" value="1549545392263" />
+    <property name="last.imported.location" value="C:/storage/repo/inz/workbook-webservice" />
+    <property name="last.used.gradle.home" value="C:/storage/utils/gradle-5.2-all" />
+    <property name="lastTip" value="51" />
+    <property name="markdown.do.not.ask.to.change.preview.provider" value="true" />
+    <property name="plugins.preselection.path" value="$USER_HOME$/Downloads" />
+    <property name="project.wizard.group" value="SpringInitializr" />
+    <property name="project.wizard.template" value="Spring Initializr" />
+    <property name="selected.color.option.type" value="XML_TAG_NAME" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.TypeScript" value="Wrapping and Braces" />
+    <property name="spring.initializr.service.url.history" value="" />
+    <property name="spring.initializr.service.url.last" value="https://start.spring.io" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="vcs.history.diff.splitter.proportion" value="0.55490404" />
+  </component>
+  <component name="WebServicesPluginSettings">
+    <StubPackage>com.coig.esb.mszkip.xapi</StubPackage>
+    <StubPackage>com.coig.esb.mszkip</StubPackage>
+    <StubPackage>com.coig.esb.mszkip.xapi</StubPackage>
+    <JAXBUrl>file:/C:/storage/repo/mszkip-esb/MszKipEsb/mszkip-esb-mediator/src/main/java/com/coig/esb/mszkip/xapi/finn-messages.xsd</JAXBUrl>
+  </component>
+</application>

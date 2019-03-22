@@ -1,0 +1,11 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://gwtproject.org/doctype/2.8.2/gwt-module.dtd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/344fb619_gwt-module.dtd" />
+    <ignored-resource url="http://java.sun.com/jsp/jstl/fmt" />
+    <ignored-resource url="http://ocpsoft.com/prettyfaces/3.3.0" />
+    <ignored-resource url="http://ws.apache.org/ns/synapse" />
+    <ignored-resource url="http://www.finn.pl/schema/fbroker" />
+    <ignored-resource url="http://www.finn.pl/schema/fmessage" />
+    <ignored-resource url="http:w//www.finn.pl/schema/fmd" />
+  </component>
+</application>

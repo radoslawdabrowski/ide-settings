@@ -1,0 +1,14 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="XML/Expand Empty Tag" />
+    <ignoreAction name="XML/Insert namespace prefix" />
+    <ignoreAction name="XML/Expand empty tag" />
+    <ignoreAction name="Java/Declaration/Generate missed test methods" />
+    <ignoreAction name="CSS/Replace quotes" />
+    <ignoreAction name="Language Injection/Inject language or reference" />
+    <ignoreAction name="JavaScript/Declaration/Split Declaration And Initialization" />
+    <ignoreAction name="XML/Remove tag" />
+    <ignoreAction name="Java/Refactorings/Introduce local variable" />
+    <ignoreAction name="JavaScript/ECMAScript 6/Convert 'forEach' to 'for..of'" />
+  </component>
+</application>

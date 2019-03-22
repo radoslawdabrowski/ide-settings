@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="dummy" type="PLAIN_TEXT" />
+      <mapping pattern=".tfignore" type="PLAIN_TEXT" />
+      <mapping pattern="widgetset.gwt.xml" type="PLAIN_TEXT" />
+      <mapping pattern="_variables.scss" type="PLAIN_TEXT" />
+      <mapping pattern="SodDocumentXSLTransform.xslt" type="PLAIN_TEXT" />
+      <mapping pattern="TabInsertObjectSelectType" type="XML" />
+    </extensionMap>
+  </component>
+</application>
